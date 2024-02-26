@@ -1,0 +1,140 @@
+{
+  "users": {
+    "sachin1707208291": {
+      "username": "sachin",
+      "password": "54",
+      "email": "cdm@gmail.com",
+      "role": "user"
+    },
+    "rohit1707208465": {
+      "username": "rohit",
+      "password": "254",
+      "email": "xyz1@gmail.com",
+      "role": "user"
+    },
+    "admin1707303134": {
+      "username": "admin",
+      "password": "admin",
+      "email": "admin@gmail.com",
+      "role": "admin"
+    },
+    "ak1708433007": {
+      "username": "ak",
+      "password": "ak",
+      "email": "ak@gmail.com",
+      "role": "user"
+    }
+  },
+  "tasks": [
+    {
+      "uId": "sachin1707208291",
+      "taskId": 1708693975,
+      "taskName": "Image uploads by link",
+      "taskDetails": "It is an image i have uploaded through link",
+      "taskImage": "1708929301.png",
+      "taskStatus": 1,
+      "createdTime": "February 23, 2024, 6:42 pm IST",
+      "updateTime": "February 26, 2024, 12:05 pm IST"
+    },
+    {
+      "uId": "sachin1707208291",
+      "taskId": 1708519809,
+      "taskName": "h",
+      "taskDetails": "",
+      "taskImage": "default_taskImage.png",
+      "taskStatus": 1,
+      "createdTime": "February 21, 2024, 6:20 pm IST",
+      "updateTime": "February 23, 2024, 6:46 pm IST"
+    },
+    {
+      "uId": "sachin1707208291",
+      "taskId": 1708519813,
+      "taskName": "j",
+      "taskDetails": "",
+      "taskImage": "default_taskImage.png",
+      "taskStatus": 1,
+      "createdTime": "February 21, 2024, 6:20 pm IST",
+      "updateTime": "February 21, 2024, 6:20 pm IST"
+    },
+    {
+      "uId": "sachin1707208291",
+      "taskId": 1708519804,
+      "taskName": "n",
+      "taskDetails": "",
+      "taskImage": "default_taskImage.png",
+      "taskStatus": 1,
+      "createdTime": "February 21, 2024, 6:20 pm IST",
+      "updateTime": "February 21, 2024, 6:20 pm IST"
+    },
+    {
+      "uId": "sachin1707208291",
+      "taskId": 1708519801,
+      "taskName": "t",
+      "taskDetails": "",
+      "taskImage": "default_taskImage.png",
+      "taskStatus": 1,
+      "createdTime": "February 21, 2024, 6:20 pm IST",
+      "updateTime": "February 21, 2024, 6:20 pm IST"
+    },
+    {
+      "uId": "ak1708433007",
+      "taskId": 1708497915,
+      "taskName": "Wappalyzer has been upgraded",
+      "taskDetails": "AbhiCMS detection\r\nActBlue detection\r\nAlliance Auth detection\r\nAlvandCMS detection\r\nApache APISIX detection\r\nApexChat detection\r\nAuthorize.net detection\r\nBeehiiv detection\r\nBigCommerce B2B Edition detection\r\nBlotout EdgeTag detection",
+      "taskImage": "1708497915.png",
+      "taskStatus": 1,
+      "createdTime": "February 21, 2024, 12:15 pm IST",
+      "updateTime": "February 21, 2024, 12:15 pm IST"
+    },
+    {
+      "uId": "ak1708433007",
+      "taskId": 1708433058,
+      "taskName": "Introduction",
+      "taskDetails": "In CSS, you can use the following properties to hide an element without removing it from the DOM:\r\ndisplay: none: Removes the element from the page and does not take up any space\r\nvisibility: hidden: Hides the element while keeping the space the same\r\nopacity: 0: Has the benefit of being animatable, so you can have the element to fade in from its invisibility ",
+      "taskImage": "1708433058.png",
+      "taskStatus": 1,
+      "createdTime": "February 20, 2024, 6:14 pm IST",
+      "updateTime": "February 20, 2024, 6:14 pm IST"
+    },
+    {
+      "uId": "sachin1707208291",
+      "taskId": 1707484878,
+      "taskName": "My new task",
+      "taskDetails": "Include Bootstraps CSS and JS. Place the tag in the for our CSS, and the tag for our JavaScript bundle (including Popper for positioning dropdowns, poppers, and tooltips) before the closing. Learn more about our CDN links.",
+      "taskImage": "1707485123.jpeg",
+      "taskStatus": 1,
+      "createdTime": "February 9, 2024, 6:51 pm IST",
+      "updateTime": "February 20, 2024, 12:05 pm IST"
+    },
+    {
+      "uId": "rohit1707208465",
+      "taskId": 1707738061,
+      "taskName": "Js Components",
+      "taskDetails": "Curious which components explicitly require our JavaScript and Popper? Click the show components link below. If you\u2019re at all unsure about the general page structure, keep reading for an example page.",
+      "taskImage": "1708068042.png",
+      "taskStatus": 1,
+      "createdTime": "February 12, 2024, 5:11 pm IST",
+      "updateTime": "February 16, 2024, 12:50 pm IST"
+    },
+    {
+      "uId": "rohit1707208465",
+      "taskId": 1707742078,
+      "taskName": "Using new stdClass()",
+      "taskDetails": "An object is an individual instance of the data structure defined by a class. We define a class once and then make many objects that belong to it. Objects are also known as instances. \r\n\r\nIn this article, we will create an object without using a class in PHP.",
+      "taskImage": "1707742078.png",
+      "taskStatus": 1,
+      "createdTime": "February 12, 2024, 6:17 pm IST",
+      "updateTime": "February 12, 2024, 6:17 pm IST"
+    },
+    {
+      "uId": "sachin1707208291",
+      "taskId": 1707475136,
+      "taskName": "String Operators",
+      "taskDetails": "There are two string operators. The first is the concatenation operator ('.'), which returns the concatenation of its right and left arguments. The second is the concatenating a string that is generally used to do in php.",
+      "taskImage": "1707725720.png",
+      "taskStatus": 1,
+      "createdTime": "February 9, 2024, 4:08 pm IST",
+      "updateTime": "February 12, 2024, 2:01 pm IST"
+    }
+  ]
+}
